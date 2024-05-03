@@ -28,6 +28,7 @@ Pulse is a simple voice assistant built using Python. It can perform various tas
 
 ## Prerequisites
 Ensure you have the required Python libraries installed. To install them, type the following commands in terminal:
+```bash
 pip install pyttsx3
 pip install SpeechRecognition
 pip install datetime
